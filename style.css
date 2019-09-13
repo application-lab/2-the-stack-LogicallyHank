@@ -1,0 +1,43 @@
+p {
+    font-family: helvetica;
+}
+H1{ 
+    font-family: helvetica;
+}
+.content {
+    width: 1500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+  
+  }
+.content-box {
+    background-color:lightgray;
+    width: 400px;
+    height: 275;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    margin: 10px;
+    
+  }
+.pic {
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+.vert {
+    padding-left: 125px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+
+}
+.desc {
+    padding-left: 10px;
+}
+.header {
+    margin: auto;
+    width: 600px;
+}
