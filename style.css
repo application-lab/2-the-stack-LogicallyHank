@@ -4,6 +4,9 @@ p {
 H1{ 
     font-family: helvetica;
 }
+H3{ 
+    font-family: helvetica;
+}
 .content {
     width: 1500;
     display: flex;
